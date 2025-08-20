@@ -1,5 +1,7 @@
 class AppRoutes {
-  static const String calculator = "/calculatorPage";
-  static const String football = "/footballPage";
-  static const String editPlayer = "/editPlayerPage";
+  static const calculator = '/calculator';
+  static const football = '/football';
+  static const editPlayer = '/editPlayer';
+  static const profile = '/profile';
+  static const main = '/main'; 
 }

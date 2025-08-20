@@ -4,7 +4,8 @@ import '../controllers/football_player_controller.dart';
 import '../routes/routes.dart';
 
 class FootballPage extends StatelessWidget {
-  final FootballPlayerController controller = Get.find();
+  final FootballPlayerController controller = Get.put(FootballPlayerController());
+
 
   @override
   Widget build(BuildContext context) {

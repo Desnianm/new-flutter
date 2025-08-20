@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:latihan2_11pplg2/register_page.dart';
 import 'package:latihan2_11pplg2/widget/custom_button.dart';
 import 'package:latihan2_11pplg2/widget/custom_textfield.dart';
-import 'register_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
